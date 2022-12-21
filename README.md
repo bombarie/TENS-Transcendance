@@ -1,4 +1,4 @@
-# TENS-Transcendence
+# TENS-Transcendance
 
 Hardware design and code related to the development of a remotely-triggerable system of TENS muscle stimulation as part of the experimental dance / VR performance [Transcendance](https://www.theaterutrecht.nl/voorstellingen/transcendance).
 
