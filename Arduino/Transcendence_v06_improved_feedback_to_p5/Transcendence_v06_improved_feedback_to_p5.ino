@@ -1,5 +1,22 @@
 #include "variables.h"
 
+
+
+/*******   WIFI settings   ******************************/
+
+// SSID and password of the wifi access point
+const char* ssid = "ORBI06";
+const char* pwd = "livelyprairie064";
+ 
+// IP address for the Arduino
+const IPAddress ip(10, 0, 0, 88);
+const IPAddress gateway(10, 0, 0, 1);
+
+/*******************************************************/
+
+
+
+
 // #define ARDUINOOSC_DEBUGLOG_ENABLE
 
 // Please include ArduinoOSCWiFi.h to use ArduinoOSC on the platform
@@ -7,6 +24,11 @@
 #include <ArduinoOSCWiFi.h>
 // this is also valid for other platforms which can use only WiFi
 // #include <ArduinoOSC.h>
+
+
+
+
+
 
 // send / receive varibales
 int i;

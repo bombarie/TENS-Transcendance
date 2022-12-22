@@ -15,12 +15,12 @@
 //const char* pwd = "livelyprairie064";
 
 // WiFi @ home
-const char* ssid = "WormKoning";
-const char* pwd = "dingflofbips";
+//const char* ssid = "WormKoning";
+//const char* pwd = "dingflofbips";
 
 // @home
-const IPAddress ip(192, 168, 1, 201);
-const IPAddress gateway(192, 168, 1, 1);
+//const IPAddress ip(192, 168, 1, 201);
+//const IPAddress gateway(192, 168, 1, 1);
 
 // @theater utrecht - production AP
 //const IPAddress ip(10, 0, 0, 88);
