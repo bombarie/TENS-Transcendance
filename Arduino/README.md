@@ -7,6 +7,8 @@ The sketch _Transcendence\_v06\_improved\_feedback\_to\_p5_ is the most recent.
 
 The target device for this code is the [DOIT ESP32 DEVKIT V1](https://grobotronics.com/esp32-development-board-devkit-v1.html?sl=en) ESP32.
 
+In the Arduino environment the ESP32 package 2.0.5 was used.
+
 ![DOIT ESP32 DEVKIT V1 pinout](https://grobotronics.com/images/companies/1/71kEWzr29bL._AC_SL1001_.jpg)
 
 ### Dependencies
