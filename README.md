@@ -17,5 +17,5 @@ The system extends an existing TENS muscle stimulator, the [Promed TENS 1000S](h
 
 ### Dependencies
 
-_coming..._
+The software dependencies are enumerated in the Arduino and Processing folders.
 
